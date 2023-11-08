@@ -1,0 +1,45 @@
+{
+    "batch_contract_pair": [
+        {
+            "contract_addr": "sei1unyuj8qnmygvzuex3dwmg9yzt9alhvyeat0uu0jedg2wj33efl5qcepxt3",
+            "pairs": [
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "uatom",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                },
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "ubtc",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                },
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "ueth",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                },
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "uosmo",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                },
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "usol",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                },
+                {
+                    "price_denom": "uusdc",
+                    "asset_denom": "usei",
+                    "price_tick_size": "0.0000001",
+                    "quantity_tick_size": "0.0000001"
+                }
+            ]
+        }
+    ]
+}
